@@ -11,7 +11,6 @@
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamluisfelipevieira/)
 
 [![LuisFelipe GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisFelipe56)](https://github.com/anuraghazra/github-readme-stats)
 
